@@ -1,13 +1,10 @@
 # TeamLumos-RetrofitAPI
 
-# Mobile Application Development DEV-3007 (241068)
+**Mobile Application Development DEV-3007 (241068)**
 
-# Co-opt 1
+**Co-opt 1 Topic: API Fetching using Retrofit**
 
-# Topic: API Fetching using Retrofit
-
-# Team Lumos
-
+**Team Lumos**
 **Team members:**
 - David Chun Wa Hung
 - Felix Hiu Hing Chong
