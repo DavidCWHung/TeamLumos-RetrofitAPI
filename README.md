@@ -1,6 +1,6 @@
 # TeamLumos-RetrofitAPI
 
-**Mobile Application Development DEV-3007 (241068)**
+**Mobile Application Development ADEV-3007**
 
 **Co-opt 1 Topic: API Fetching using Retrofit**
 
